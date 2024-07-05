@@ -1,0 +1,182 @@
+[
+    {
+        "grupo": "A",
+        "times": [
+            {
+                "nome": "Alemanha",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                "posicao": 1,
+                "pontos": 7,
+                "vitorias": 2,
+                "empates": 1,
+                "derrotas": 0,
+                "saldogol": 8
+            },
+            {
+                "nome": "Suiça",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_48x48.png",
+                "posicao": 2,
+                "pontos": 5,
+                "vitorias": 1,
+                "empates": 2,
+                "derrotas": 0,
+                "saldogol": 5
+            },
+            {
+                "nome": "Hungria",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/cI5rCchv6SjDgZ5NuEaMMQ_48x48.png",
+                "posicao": 3,
+                "pontos": 3,
+                "vitorias": 1,
+                "empates": 0,
+                "derrotas": 2,
+                "saldogol": 2
+            },
+            {
+                "nome": "Escócia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1ZizIpPB_eo-u8zYYjnFcg_48x48.png",
+                "posicao": 4,
+                "pontos": 1,
+                "vitorias": 0,
+                "empates": 1,
+                "derrotas": 2,
+                "saldogol": 2
+            }
+        ]
+    },
+    {
+        "grupo": "B",
+        "times": [
+            {
+                "nome": "Espanha",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ohjuAvV5dzyPZSEWWNNd_Q_48x48.png",
+                "posicao": 1,
+                "pontos": 9,
+                "vitorias": 3,
+                "empates": 0,
+                "derrotas": 0,
+                "saldogol": 5
+            },
+            {
+                "nome": "Italia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/AKqvkBpIyr-iLOK7Ig7-yQ_48x48.png",
+                "posicao": 2,
+                "pontos": 4,
+                "vitorias": 1,
+                "empates": 1,
+                "derrotas": 1,
+                "saldogol": 5
+            },
+            {
+                "nome": "Croácia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_48x48.png",
+                "posicao": 2,
+                "pontos": 2,
+                "vitorias": 0,
+                "empates": 2,
+                "derrotas": 1,
+                "saldogol": 5
+            },
+            {
+                "nome": "Albânia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/4HCKfsNJNHDY-vWSEzLbeQ_48x48.png",
+                "posicao": 4,
+                "pontos": 1,
+                "vitorias": 0,
+                "empates": 1,
+                "derrotas": 2,
+                "saldogol": 5
+            }
+        ]
+    },
+    {
+        "grupo": "C",
+        "times": [
+            {
+                "nome": "Uruguai",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_48x48.png",
+                "posicao": 1,
+                "pontos": 9,
+                "vitorias": 3,
+                "empates": 0,
+                "derrotas": 3,
+                "saldogol": 10
+            },
+            {
+                "nome": "Panamá",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/JIn8OwxL6KFFiYrKGnL2RQ_48x48.png",
+                "posicao": 2,
+                "pontos": 6,
+                "vitorias": 2,
+                "empates": 0,
+                "derrotas": 1,
+                "saldogol": 0
+            },
+            {
+                "nome": "Estados Unidos",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_48x48.png",
+                "posicao": 3,
+                "pontos": 3,
+                "vitorias": 1,
+                "empates": 0,
+                "derrotas": 2,
+                "saldogol": -2
+            },
+            {
+                "nome": "Bolívia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/SGxeD7yhwPj53FmPBmMMHg_48x48.png",
+                "posicao": 4,
+                "pontos": 0,
+                "vitorias": 0,
+                "empates": 0,
+                "derrotas": 3,
+                "saldogol": -8
+            }
+        ]
+    },
+    {
+        "grupo": "D",
+        "times": [
+            {
+                "nome": "Brasil",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+                "posicao": 1,
+                "pontos": 7,
+                "vitorias": 2,
+                "empates": 1,
+                "derrotas": 0,
+                "saldogol": 5
+            },
+            {
+                "nome": "Colômbia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png",
+                "posicao": 2,
+                "pontos": 6,
+                "vitorias": 2,
+                "empates": 0,
+                "derrotas": 0,
+                "saldogol": 2
+            },
+            {
+                "nome": "Paraguai",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/-FN-y84Al3dbth0hW1t5Qg_48x48.png",
+                "posicao": 3,
+                "pontos": 3,
+                "vitorias": 1,
+                "empates": 0,
+                "derrotas": 2,
+                "saldogol": -3
+            },
+            {
+                "nome": "Costa Rica",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ixZiM5pj2IvvYc15k-zfeQ_48x48.png",
+                "posicao": 4,
+                "pontos": 1,
+                "vitorias": 0,
+                "empates": 1,
+                "derrotas": 2,
+                "saldogol": -4
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "datahora": "14/07, 21:00",
+        "times": [
+            {
+                "nome": "Argentina",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                "gols": 1
+            },
+            {
+                "nome": "Brasil",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+                "gols": 7
+            }
+        ]
+    }
+]

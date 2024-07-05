@@ -1,0 +1,32 @@
+[
+    {
+        "datahora": "09/07, 21:00",
+        "times": [
+            {
+                "nome": "Argentina",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                "gols": 2
+            },
+            {
+                "nome": "Venezuela",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/ohjuAvV5dzyPZSEWWNNd_Q_48x48.png",
+                "gols": 0
+            }
+        ]
+    },
+    {
+        "datahora": "10/07, 21:00",
+        "times": [
+            {
+                "nome": "Brasil",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+                "gols": 3
+            },
+            {
+                "nome": "Colômbia",
+                "imagem": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png",
+                "gols": 1
+            }
+        ]
+    }
+]
